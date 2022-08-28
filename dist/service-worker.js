@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.064b4626fd54717d1e0e57651b8f0625.js"
+  "/precache-manifest.0c8866f69ad86c0eebcd9aa7740794a1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "grifenix"});
